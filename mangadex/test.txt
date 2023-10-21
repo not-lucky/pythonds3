@@ -1,0 +1,103 @@
+00:00 - zeroth second
+00:01 - first second
+00:02 - second second
+00:03 - third second
+00:04 - fourth second
+00:05 - fifth second
+00:06 - sixth second
+00:07 - seventh second
+00:08 - eighth second
+00:09 - ninth second
+00:10 - tenth second
+00:11 - eleventh second
+00:12 - twelfth second
+00:13 - thirteenth second
+00:14 - fourteenth second
+00:15 - fifteenth second
+00:16 - sixteenth second
+00:17 - seventeenth second
+00:18 - eighteenth second
+00:19 - nineteenth second
+00:20 - twentieth second
+00:21 - twenty first second
+00:22 - twenty second second
+00:23 - twenty third second
+00:24 - twenty fourth second
+00:25 - twenty fifth second
+00:26 - twenty sixth second
+00:27 - twenty seventh second
+00:28 - twenty eighth second
+00:29 - twenty ninth second
+00:30 - thirtieth second
+00:31 - thirty first second
+00:32 - thirty second second
+00:33 - thirty third second
+00:34 - thirty fourth second
+00:35 - thirty fifth second
+00:36 - thirty sixth second
+00:37 - thirty seventh second
+00:38 - thirty eighth second
+00:39 - thirty ninth second
+00:40 - fortieth second
+00:41 - forty first second
+00:42 - forty second second
+00:43 - forty third second
+00:44 - forty fourth second
+00:45 - forty fifth second
+00:46 - forty sixth second
+00:47 - forty seventh second
+00:48 - forty eighth second
+00:49 - forty ninth second
+00:50 - fiftieth second
+00:51 - fifty first second
+00:52 - fifty second second
+00:53 - fifty third second
+00:54 - fifty fourth second
+00:55 - fifty fifth second
+00:56 - fifty sixth second
+00:57 - fifty seventh second
+00:58 - fifty eighth second
+00:59 - fifty ninth second
+01:00 - sixtieth second
+01:01 - sixty first second
+01:02 - sixty second second
+01:03 - sixty third second
+01:04 - sixty fourth second
+01:05 - sixty fifth second
+01:06 - sixty sixth second
+01:07 - sixty seventh second
+01:08 - sixty eighth second
+01:09 - sixty ninth second
+01:10 - seventieth second
+01:11 - seventy first second
+01:12 - seventy second second
+01:13 - seventy third second
+01:14 - seventy fourth second
+01:15 - seventy fifth second
+01:16 - seventy sixth second
+01:17 - seventy seventh second
+01:18 - seventy eighth second
+01:19 - seventy ninth second
+01:20 - eightieth second
+01:21 - eighty first second
+01:22 - eighty second second
+01:23 - eighty third second
+01:24 - eighty fourth second
+01:25 - eighty fifth second
+01:26 - eighty sixth second
+01:27 - eighty seventh second
+01:28 - eighty eighth second
+01:29 - eighty ninth second
+01:30 - ninetieth second
+01:31 - ninety first second
+01:32 - ninety second second
+01:33 - ninety third second
+01:34 - ninety fourth second
+01:35 - ninety fifth second
+01:36 - ninety sixth second
+01:37 - ninety seventh second
+01:38 - ninety eighth second
+01:39 - ninety ninth second
+01:40 - one hundredth second
+01:41 - one hundred and first second
+01:42 - one hundred and second second

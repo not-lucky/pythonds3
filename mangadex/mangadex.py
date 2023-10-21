@@ -89,11 +89,11 @@ def download_images_multithread(list_of_image_info_list):
         with open(
                 f"{directory}/{image_info_dic['manga_name']}_c{image_info_dic['chapter_number']:0>3}_{image_info_dic['page_number']:0>3}.{image_info_dic['extension']}",
                 'wb') as handle:
-            handle.write(response.content)
+            handle.write(response.content)utor.map(download_image, list_of_image_info_list)
+
 
     with ThreadPoolExecutor(max_workers=20) as executor:
-        executor.map(download_image, list_of_image_info_list)
-
+        exec
 
 def write_to_file(file, manga_and_last_chap, ongoing, manga_name, manga_id,
                   last_chapter_num):
